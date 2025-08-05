@@ -1,5 +1,5 @@
-discord
+flask
+discord.py
 apscheduler
 requests
 python-dotenv
-flask
