@@ -1,4 +1,4 @@
-discord
+discord.py
 apscheduler
 requests
 python-dotenv
